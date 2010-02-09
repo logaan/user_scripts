@@ -2,6 +2,7 @@
 // @name           Hacker News Tab Index
 // @namespace      http://logaan.net/
 // @include        http://news.ycombinator.com/
+// @description    When Hacker News loads the first link will be selected. You may navigate through the links using tab to go forwards, or shift+tab to move backwards. When opening a link in a new tab (using command+enter on a mac) the next link will be automatically selected. This allows you to consume Hacker News quickly and without the use of a mouse.
 // ==/UserScript==
 
 (function() {
